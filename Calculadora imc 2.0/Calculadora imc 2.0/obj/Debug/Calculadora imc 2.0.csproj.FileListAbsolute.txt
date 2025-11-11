@@ -1,0 +1,11 @@
+D:\Luis Filipe  DDS01\Calculadora imc 2.0\Calculadora imc 2.0\bin\Debug\Calculadora imc 2.0.exe.config
+D:\Luis Filipe  DDS01\Calculadora imc 2.0\Calculadora imc 2.0\bin\Debug\Calculadora imc 2.0.exe
+D:\Luis Filipe  DDS01\Calculadora imc 2.0\Calculadora imc 2.0\bin\Debug\Calculadora imc 2.0.pdb
+D:\Luis Filipe  DDS01\Calculadora imc 2.0\Calculadora imc 2.0\obj\Debug\Calculadora imc 2.0.csproj.AssemblyReference.cache
+D:\Luis Filipe  DDS01\Calculadora imc 2.0\Calculadora imc 2.0\obj\Debug\Calculadora_imc_2._0.Form1.resources
+D:\Luis Filipe  DDS01\Calculadora imc 2.0\Calculadora imc 2.0\obj\Debug\Calculadora_imc_2._0.Properties.Resources.resources
+D:\Luis Filipe  DDS01\Calculadora imc 2.0\Calculadora imc 2.0\obj\Debug\Calculadora imc 2.0.csproj.GenerateResource.cache
+D:\Luis Filipe  DDS01\Calculadora imc 2.0\Calculadora imc 2.0\obj\Debug\Calculadora imc 2.0.csproj.CoreCompileInputs.cache
+D:\Luis Filipe  DDS01\Calculadora imc 2.0\Calculadora imc 2.0\obj\Debug\Calculadora imc 2.0.exe
+D:\Luis Filipe  DDS01\Calculadora imc 2.0\Calculadora imc 2.0\obj\Debug\Calculadora imc 2.0.pdb
+D:\Luis Filipe  DDS01\Calculadora imc 2.0\Calculadora imc 2.0\obj\Debug\Calculadora imc 2.0.exe.config
